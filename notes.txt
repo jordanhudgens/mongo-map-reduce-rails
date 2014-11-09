@@ -1,0 +1,5 @@
+Installing mongo:
+http://moredevideas.com/getting-started-rails-4-with-mongodb/
+
+Notes:
+    Make sure you have the mongod server running
